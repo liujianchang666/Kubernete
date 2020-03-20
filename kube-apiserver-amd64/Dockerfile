@@ -1,1 +1,1 @@
-FROM gcr.io/kubernetes-apiserver-amd64:v1.14.0 
+FROM gcr.io/kube-proxy-amd64:v1.11.2
