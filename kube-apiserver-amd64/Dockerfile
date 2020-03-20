@@ -1,1 +1,1 @@
-FROM gcr.io/google-containers/kubernetes-apiserver-amd64:v1.17.0 
+FROM gcr.io/kubernetes-apiserver-amd64:v1.17.0 
