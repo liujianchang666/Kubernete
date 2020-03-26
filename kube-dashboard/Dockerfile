@@ -1,2 +1,2 @@
-From kubernetesui/dashboard:v2.0.0-beta8
+From k8s.gcr.io/kubernetes-dashboard-amd64:v1.10.1
 
