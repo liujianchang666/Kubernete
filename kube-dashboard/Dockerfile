@@ -1,2 +1,2 @@
-From k8s.gcr.io/kubernetes-dashboard:v2.0.0-beta8
+From k8s.gcr.io/kube-dashboard:v2.0.0
 
